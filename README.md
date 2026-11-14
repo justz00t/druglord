@@ -1,5 +1,8 @@
 # DrugLord (DOS v2.01), byte-matched C source
 
+[![Listed on Decomp Buddy](https://decompbuddy.com/badge.svg)](https://decompbuddy.com/games/druglord-ibm-pc-ms-dos)
+[![Install With Decomp Buddy](https://decompbuddy.com/install-button.svg)](https://decompbuddy.com/games/druglord-ibm-pc-ms-dos?install)
+
 A commented C reconstruction of **DRUGLORD.EXE v2.01** by Phil Erwin (FantasyWare Inc., 1991-93).
 Compiled with **Borland Turbo C 2.01** in the small memory model, it produces an EXE that is
 **byte-for-byte identical** to the original (74,286 bytes, MD5 `1ea0bd4c15546a1dc44365e80fb4b7cf`).
